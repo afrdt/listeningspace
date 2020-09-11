@@ -1,8 +1,9 @@
-# listeningspace
+# Listening Space
 Archive of NOAA satellite recordings and decodes by Afroditi Psarra and Audrey Briot
 
 To listen and download the original recordings go to:
-https://soundcloud.com/audreybriot/sets/listening-space or https://soundcloud.com/afroditi-psarra/sets/listening-space
+https://soundcloud.com/audreybriot/sets/listening-space 
+or https://soundcloud.com/afroditi-psarra/sets/listening-space
 
 Listening Space is an artistic research which explores transmissions ecologies as a means of perceiving the surrounding environment beyond our human abilities. Conceptually the project seeks to define transmissions ecologies as raw material for artistic expression, to understand and re-imagine in poetic means, representations of audio and images broadcasted from space, while regarding knitted textiles as a physical medium for memory storage and archiving.
 
